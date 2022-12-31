@@ -4,7 +4,7 @@
 
 <div align="center"><img src="https://img1.imgtp.com/2022/12/31/dNeyelT2.png" alt="Krzyk smoka Launcher"/></div>
 
-Krzyk smoka服服务器专属启动器 拥有强大功能 联网更新
+Krzyk smoka服务器专属启动器 拥有强大功能 联网更新
 
 ## 使用
 
